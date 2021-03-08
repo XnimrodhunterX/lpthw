@@ -1,3 +1,3 @@
-Mary had a little lamb 
-Its fleece was white as snow
-It was also tasty
+This is my new file  
+this is line number 2  
+hopefully each of these lines are on a new line
